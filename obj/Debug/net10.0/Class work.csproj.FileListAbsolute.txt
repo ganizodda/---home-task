@@ -1,0 +1,28 @@
+C:\Users\ghani\OneDrive\Desktop\Class work\bin\Debug\net10.0\Class work.exe
+C:\Users\ghani\OneDrive\Desktop\Class work\bin\Debug\net10.0\Class work.deps.json
+C:\Users\ghani\OneDrive\Desktop\Class work\bin\Debug\net10.0\Class work.runtimeconfig.json
+C:\Users\ghani\OneDrive\Desktop\Class work\bin\Debug\net10.0\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Class work\bin\Debug\net10.0\Class work.pdb
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.AssemblyInfoInputs.cache
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.AssemblyInfo.cs
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.csproj.CoreCompileInputs.cache
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\refint\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.pdb
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\Class work.genruntimeconfig.cache
+C:\Users\ghani\OneDrive\Desktop\Class work\obj\Debug\net10.0\ref\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Tasks\bin\Debug\net10.0\Class work.exe
+C:\Users\ghani\OneDrive\Desktop\Tasks\bin\Debug\net10.0\Class work.deps.json
+C:\Users\ghani\OneDrive\Desktop\Tasks\bin\Debug\net10.0\Class work.runtimeconfig.json
+C:\Users\ghani\OneDrive\Desktop\Tasks\bin\Debug\net10.0\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Tasks\bin\Debug\net10.0\Class work.pdb
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.AssemblyInfoInputs.cache
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.AssemblyInfo.cs
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.csproj.CoreCompileInputs.cache
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\refint\Class work.dll
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.pdb
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\Class work.genruntimeconfig.cache
+C:\Users\ghani\OneDrive\Desktop\Tasks\obj\Debug\net10.0\ref\Class work.dll

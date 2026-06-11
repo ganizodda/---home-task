@@ -287,4 +287,36 @@
 
 
 //task 12;
+// int a  = Convert.ToInt32(Console.ReadLine());
+// int[] arr = new int [a];
+// for(int i = 0; i < a; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// for(int i = 0;i < a; i++)
+// {
+//     if (i % 2 == 0)
+//     {
+//         System.Console.Write(arr[i] + " ");
+//     }
+// }
+
+
+
+//Task 13
+// int n = Convert.ToInt32(Console.ReadLine());
+// int[] arr = new int[n];
+// for(int i = 0; i<n; i++)
+// {
+//     arr[i] = Convert.ToInt32(Console.ReadLine());
+// }
+// int cnt = 0;
+// for(int i = 1; i<n; i++)
+// {
+//     if(arr[i] > arr[i - 1])
+//     {
+//         cnt++;
+//     }
+// }
+//     Console.WriteLine(cnt);
 
